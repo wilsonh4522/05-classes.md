@@ -24,7 +24,8 @@ public static String printMessage() {
 ```
 
 ### Challenge 2
-Another challenge I faced in unit 5 is static vs instances. I didn't understand what how and when they are used. 
+Another challenge I faced in unit 5 is static vs instances. I didn't understand what how and when they are used. To understand this I watched a couple youtube vidoes like [this](https://www.youtube.com/watch?v=-Y67pdWHr9Y). I learned that static methods belong to a class and dont need a specific object to work. On the other hand instance methods that belong to individual objects. 
+
 
 
 
