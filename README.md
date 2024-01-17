@@ -23,5 +23,8 @@ public static String printMessage() {
     }`
 ```
 
+### Challenge 2
+Another challenge I faced in unit 5 is static vs instances. I didn't understand what how and when they are used. 
+
 
 
